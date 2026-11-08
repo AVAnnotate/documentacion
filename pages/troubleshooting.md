@@ -25,8 +25,8 @@ nav_order: 11
 - Clearing formatting – Ensure that all annotations and tags are in plain text. Plain text can include diacritics and all alphanumeric characters (see notes on tags above). It can also include HTML tags for basic formatting. An easy catch-all is to clear all formatting in these ways before uploading to AVAnnotate: In Google Docs, format text as “values only” and format numeric cells (i.e., timestamps) as plain text (Format → Numbers → Plain Text). In Excel, format text to “match destination formatting.”
 
 ## Publish Often
-- Publish the project's site early and often to make sure that there are no errors in the data.
+- Publish the project's site early and often to identify potential errors and troubleshoot issues as they arise.
  
-## Learn How to Delete
-- Check the documentation by searching for the word “delete.”
-- Example: the 'Default' annotation set *can* be renamed, but *cannot* be deleted. Once annotations are added to the event, *there must be at least one annotation set*. To delete the default annotation set (even when it is renamed), delete the event or create a new set and delete the default annotation set.
+## Check Before Deleting
+- Search the documentation for “delete” before removing project elements to avoid accidentally disrupting the site’s functionality.
+- Example: The 'Default' annotation set *can* be renamed, but *cannot* be deleted. Once annotations are added to the event, *there must be at least one annotation set*. To delete the default annotation set (even when it is renamed), delete the event or create a new set and delete the default annotation set.
