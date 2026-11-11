@@ -6,7 +6,7 @@ ancester: Projects
 nav_order: 3
 ---
 ## [Annotation Spreadsheet Template](https://docs.google.com/spreadsheets/d/12yn6zxviUpNLYESlGfUyWTc83wmFfsOM/copy){:target="_blank" rel="noopener"}
-This template includes project annotations. [`Annotations`](https://avannotate.github.io/documentation/pages/annotations/) correspond to a given start and end point in the audio or video artifact, and contain information about the AV item. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, such as shot sequence, volume, or lighting; historical or cultural context; environmental noise, such as fans or car horns; or conceptual notes or themes. Annotations are linked to an event during the upload process. 
+This template includes project annotations. [`Annotations`](https://avannotate.github.io/documentacion/pages/annotations/) correspond to a given start and end point in the audio or video artifact, and contain information about the AV item. The nature of this information is entirely up to the user. For example, annotations might include a transcript; captions; information about formal features of the media, such as shot sequence, volume, or lighting; historical or cultural context; environmental noise, such as fans or car horns; or conceptual notes or themes. Annotations are linked to an event during the upload process. 
 
 {: .note }
 > Annotations may overlap in time and will appear in the interface in sequence by earliest start time.

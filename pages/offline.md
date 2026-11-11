@@ -10,12 +10,12 @@ nav_order: 1
 
 AVAnnotate projects can be downloaded and used offline, or hosted on a private server as a standalone site. 
 
-For private projects, start with the instructions for [creating a private repository](https://avannotate.github.io/documentation/pages/private).
-To create projects without a URL, see the instructions for creating [Events](https://avannotate.github.io/documentation/pages/events/).
+For private projects, start with the instructions for [creating a private repository](https://avannotate.github.io/documentacion/pages/private).
+To create projects without a URL, see the instructions for creating [Events](https://avannotate.github.io/documentacion/pages/events/).
 
 ## Creating Offline or Alternative Server Projects
 
-1. Edit the file reference for each AV item in the project. In the AVAnnotate dashboard, go to each [Event](https://avannotate.github.io/documentation/pages/events/) setting and change the `File` type from `URL` to `Offline`. Then, rename the AV file URL by inserting a forward slash, the "media" directory name, a forward slash, and the name of the AV file (e.g., `/mediadirectoryname/filename.mp3`).  
+1. Edit the file reference for each AV item in the project. In the AVAnnotate dashboard, go to each [Event](https://avannotate.github.io/documentacion/pages/events/) setting and change the `File` type from `URL` to `Offline`. Then, rename the AV file URL by inserting a forward slash, the "media" directory name, a forward slash, and the name of the AV file (e.g., `/mediadirectoryname/filename.mp3`).  
 ![Offline Image 1](../../assets/offlineimage1.png)
 
 2. To publish a `Static Site`, click the `Publish` button on the `Site Builder` tab and select the `Static Site` option. A new repository will appear in the project's GitHub repository named "site." 

@@ -17,7 +17,7 @@ Some scenarios that may best suit a personal account include:
 - Personal archive of video files that don't require collaboration.
 - A dissertation project with audiovisual files and transcripts.
 
-See more information on [creating private projects](https://avannotate.github.io/documentation/pages/private/).
+See more information on [creating private projects](https://avannotate.github.io/documentacion/pages/private/).
 
 ### Organization account
 An [organization account](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations){:target="_blank" rel="noopener"} is intended for collaboration. It enables multiple users to contribute to and manage AVAnnotate projects under a shared group identity. Organizations are ideal for team-based class assignments, student groups, library staff, or departments that need to control access and assign roles (e.g., admin, maintainer, contributor). Projects created within an organization belong to all members of the organization, not an individual.

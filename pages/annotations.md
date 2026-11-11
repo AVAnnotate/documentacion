@@ -10,7 +10,7 @@ nav_order: 4
 In AVAnnotate, the body of an annotation is associated with a timestamped point or range in the audio or video. The annotation might include information about the media, such as transcripts, captions, details about formal features (like shot sequence, volume, or lighting), historical or cultural context, environmental noises (like fans or car horns), or conceptual notes or themes, along with a variety of other possible topics. Please see "AVAnnotate Example Annotation Types, Index Terms, and Codes" on the [Additional Researcher Resources](https://avannotate.github.io/guidelines/pages/research-resources.html) page of the [AVAnnotate User Guidelines](https://avannotate.github.io/guidelines/).
 
 Requirements
-- All annotations are part of an [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) that corresponds to an associated [Event](https://avannotate.github.io/documentation/pages/events/).
+- All annotations are part of an [Annotation Set](https://avannotate.github.io/documentacion/pages/annotationsets/) that corresponds to an associated [Event](https://avannotate.github.io/documentacion/pages/events/).
 - Timestamps must be provided for each annotation. Timestamps
   - must be in seconds or in hours:minutes:seconds (hh:mm:ss) format.
   - must include a start and an end time. The start and end times can specify a range or a single point in time with the same timestamp for start and end time.
@@ -22,7 +22,7 @@ Allowances:
 
 # Creating, Modifying, and Deleting Annotations
 
-Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard. After adding an annotation, a default Annotation Set is created and appears in the `Event` settings. To create, edit, delete, and upload annotation sets, please see the [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) page.
+Annotations and timestamps can be added, edited, or deleted through the AVAnnotate dashboard. After adding an annotation, a default Annotation Set is created and appears in the `Event` settings. To create, edit, delete, and upload annotation sets, please see the [Annotation Set](https://avannotate.github.io/documentacion/pages/annotationsets/) page.
 
 ## Adding annotations to an event 
 Navigate to the `Events` dashboard and select an event. 
@@ -42,5 +42,5 @@ On the event page, timestamps and annotations can be edited by selecting the thr
 Individual annotations can be deleted by selecting the three-dot menu next to the annotation. 
 ![image 5](../../assets/newannotationsimage5.png)
 
-To delete multiple annotations at once, please see the [Annotation Set](https://avannotate.github.io/documentation/pages/annotationsets/) page.
+To delete multiple annotations at once, please see the [Annotation Set](https://avannotate.github.io/documentacion/pages/annotationsets/) page.
 

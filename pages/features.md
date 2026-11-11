@@ -8,12 +8,12 @@ nav_order: 6
 
 At its core, AVAnnotate is a web application that enables users to create digital exhibits featuring audiovisual media alongside user-generated, time-stamped annotations and tags. 
 
-The AVAnnotate application is split into several primary sections: [project settings](https://avannotate.github.io/documentation/pages/creating_projects/), [`Data Manager`](https://avannotate.github.io/documentation/pages/data-manager/), and [`Site Builder`](https://avannotate.github.io/documentation/pages/site-builder/). The project settings include high-level information, such as the project author, project description, project collaborators, and whether the project is saved to a public or private repository. The `Data Manager` page enables users to link their audiovisual media with associated [annotations](https://avannotate.github.io/documentation/pages/annotations/) and manage project-wide [tags](https://avannotate.github.io/documentation/pages/tags/). The `Site Builder` allows users to customize how their exhibit (including media and annotations) appears to audiences through building and designing webpages. 
+The AVAnnotate application is split into several primary sections: [project settings](https://avannotate.github.io/documentacion/pages/creating_projects/), [`Data Manager`](https://avannotate.github.io/documentacion/pages/data-manager/), and [`Site Builder`](https://avannotate.github.io/documentacion/pages/site-builder/). The project settings include high-level information, such as the project author, project description, project collaborators, and whether the project is saved to a public or private repository. The `Data Manager` page enables users to link their audiovisual media with associated [annotations](https://avannotate.github.io/documentacion/pages/annotations/) and manage project-wide [tags](https://avannotate.github.io/documentacion/pages/tags/). The `Site Builder` allows users to customize how their exhibit (including media and annotations) appears to audiences through building and designing webpages. 
 
 Below is a list of AVAnnotate application features, organized into sections corresponding to the application's infrastructure and project settings, the `Data Manager`, and the `Site Builder`. 
 
 {: .note }
-> This page will be most useful *after* users are familiar with the [AVAnnotate glossary](https://avannotate.github.io/documentation/pages/glossary/).
+> This page will be most useful *after* users are familiar with the [AVAnnotate glossary](https://avannotate.github.io/documentacion/pages/glossary/).
 
 ## Infrastructure: 
   - AVAnnotate is based on widely accepted standards (IIIF, web annotations, W3C guidelines, etc.). 
@@ -23,19 +23,19 @@ Below is a list of AVAnnotate application features, organized into sections corr
 
 ## Project Settings: 
 - AVAnnotate projects can be saved in any organization that a GitHub user can edit.
-- [Collaborators](https://avannotate.github.io/documentation/pages/add-collab/) can be added via GitHub username in the Project Settings.
+- [Collaborators](https://avannotate.github.io/documentacion/pages/add-collab/) can be added via GitHub username in the Project Settings.
 - IIIF manifests are linked at the bottom of every project page.
-- AVAnnotate projects can be downloaded and used [offline](https://avannotate.github.io/documentation/pages/offline/) as a free-standing site not locatable on the internet.
+- AVAnnotate projects can be downloaded and used [offline](https://avannotate.github.io/documentacion/pages/offline/) as a free-standing site not locatable on the internet.
 - Offline/private projects with up to 3 collaborators can be created using GitHub private repositories.
 - “No media” AVAnnotate projects can be created via:
-  - [Spreadsheet upload](https://avannotate.github.io/documentation/pages/templates/)
+  - [Spreadsheet upload](https://avannotate.github.io/documentacion/pages/templates/)
   - Manual entry by changing the Event settings for the media file from "URL" to "offline."
 
 ## Data Manager: 
 ### Events
-  - [Events](https://avannotate.github.io/documentation/pages/events/) may comprise a single audiovisual file ("single-AV Event") or multiple AV files ("multi-AV Event"). 
+  - [Events](https://avannotate.github.io/documentacion/pages/events/) may comprise a single audiovisual file ("single-AV Event") or multiple AV files ("multi-AV Event"). 
   - Single-AV audio and video Events can be created via:
-    - [Spreadsheet upload](https://avannotate.github.io/documentation/pages/templates/),
+    - [Spreadsheet upload](https://avannotate.github.io/documentacion/pages/templates/),
     - IIIF manifest import, and/or
     - Manually through the [AVAnnotate interface](https://avannotate.netlify.app/en/sign-in){:target="_blank" rel="noopener"}.
   - Multi-AV audio and video `Events` can be created via:
@@ -43,25 +43,25 @@ Below is a list of AVAnnotate application features, organized into sections corr
     - Manual entry through the [AVAnnotate interface](https://avannotate.netlify.app/en/sign-in){:target="_blank" rel="noopener"}.
 
 ### Annotations
-  - [Annotations](https://avannotate.github.io/documentation/pages/annotations/) can be added to both single- and multi-AV Events via:
-    - [Spreadsheet upload](https://avannotate.github.io/documentation/pages/templates/),
+  - [Annotations](https://avannotate.github.io/documentacion/pages/annotations/) can be added to both single- and multi-AV Events via:
+    - [Spreadsheet upload](https://avannotate.github.io/documentacion/pages/templates/),
     - IIIF manifest import, and/or
     - Manual entry through the [AVAnnotate interface](https://avannotate.netlify.app/en/sign-in){:target="_blank" rel="noopener"}.
   - Annotation spreadsheets can be added to the Event's default annotation set or to a newly-created set.
   - Annotations can also be added, edited, or deleted via the AVAnnotate editing interface.
-  - [Annotation sets](https://avannotate.github.io/documentation/pages/annotationsets/) can be set as captions on a video file (note: this does not work for YouTube, which has its own captioning system).
+  - [Annotation sets](https://avannotate.github.io/documentacion/pages/annotationsets/) can be set as captions on a video file (note: this does not work for YouTube, which has its own captioning system).
   - Event pages allow users to choose how they view annotations (i.e., filter by annotation sets or sort by tag). 
 
 ### Tags
- - [Tags](https://avannotate.github.io/documentation/pages/tags/) can be added via:
-   - [Spreadsheet upload](https://avannotate.github.io/documentation/pages/templates/) (if uploaded *before* annotations containing tags), and/or
+ - [Tags](https://avannotate.github.io/documentacion/pages/tags/) can be added via:
+   - [Spreadsheet upload](https://avannotate.github.io/documentacion/pages/templates/) (if uploaded *before* annotations containing tags), and/or
    - Manual entry through the [AVAnnotate interface](https://avannotate.netlify.app/en/sign-in){:target="_blank" rel="noopener"} (Index). 
  - Tags and Tag Groups can be edited via AVAnnotate.
  - Event pages allow users to filter annotations by tags.
  - Index pages show when tags appear in different `Events` and AV files.
 
 ## Site Builder: 
- - Pages can be [auto-generated](https://avannotate.github.io/documentation/pages/auto/) or [custom-made](https://avannotate.github.io/documentation/pages/custom/).
+ - Pages can be [auto-generated](https://avannotate.github.io/documentacion/pages/auto/) or [custom-made](https://avannotate.github.io/documentacion/pages/custom/).
  - Auto-generated pages give non-technical users a quick and easy way to produce AVAnnotate projects.
  - Custom pages provide options within the rich-text editor to control text and image formatting and layout.
  - Pages can contain text, images, links, full AV files, or clips of AV files.

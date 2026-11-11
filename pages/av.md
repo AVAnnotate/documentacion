@@ -8,10 +8,10 @@ nav_order: 3
 
 # Audiovisual Material
 
-AVAnnotate does not store media files. AVAnnotate references audiovisual media through URLs and [IIIF manifests](https://avannotate.github.io/documentation/pages/iiif/). To create an AVAnnotate project with playable audiovisual material, the AV file must be hosted on a public server. 
+AVAnnotate does not store media files. AVAnnotate references audiovisual media through URLs and [IIIF manifests](https://avannotate.github.io/documentacion/pages/iiif/). To create an AVAnnotate project with playable audiovisual material, the AV file must be hosted on a public server. 
 
 {: .note }
-> To create AVAnnotate with private or offline AV media, see [Offline or Alternative Server Projects](https://avannotate.github.io/documentation/pages/offline/).
+> To create AVAnnotate with private or offline AV media, see [Offline or Alternative Server Projects](https://avannotate.github.io/documentacion/pages/offline/).
 
 ## AV References 
 Creating URLs for AV files is made simple by [uploading AV to the Internet Archive](https://help.archive.org/help/uploading-a-basic-guide/){:target="_blank" rel="noopener"}, where direct links to .mp3 and .mp4 files are easily accessible. Follow [the download directions](https://help.archive.org/help/how-to-download-files/){:target="_blank" rel="noopener"}, but instead of downloading, right-click on the file name and copy the URL.

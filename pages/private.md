@@ -21,4 +21,4 @@ Toggle on “Private Repository,” which will prevent the generation of GitHub 
 
 ![Image 2: How to make a project private](../../assets/newprivateprojectimage2.png) 
 
-When the project is built, online public pages will not be created. To view the built project offline in a browser or on a local server, follow the instructions in the [Offline](https://avannotate.github.io/documentation/pages/offline/) section.
+When the project is built, online public pages will not be created. To view the built project offline in a browser or on a local server, follow the instructions in the [Offline](https://avannotate.github.io/documentacion/pages/offline/) section.
