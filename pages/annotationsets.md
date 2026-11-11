@@ -14,19 +14,19 @@ Annotation sets can be used to organize annotations into groups that are added t
 - *language*: e.g., one in English and another in Spanish
 - *annotation creators*: e.g., a separate set for each editor on a project.
 
-When [annotations are added to an event](https://avannotate.github.io/documentation/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set. 
+When [annotations are added to an event](https://avannotate.github.io/documentacion/pages/annotations/) either individually or by uploading a spreadsheet, AVAnnotate creates a 'Default' annotation set. 
 
 ## Creating and Modifying Default Annotation Sets
-The default annotation set will appear in [`Event` settings](https://avannotate.github.io/documentation/pages/events/). It does not appear as part of the annotation set filter in the published project until another annotation set has been added. 
+The default annotation set will appear in [`Event` settings](https://avannotate.github.io/documentacion/pages/events/). It does not appear as part of the annotation set filter in the published project until another annotation set has been added. 
 ![image 1](../../assets/newannotationsetsimage1.png)
 
 {: .warning }
 > The 'Default' annotation set *can* be renamed, but *cannot* be deleted. Once annotations are added to the event, *there must be at least one annotation set*. 
-To delete the default annotation set (even when it is renamed), [delete the event](https://avannotate.github.io/documentation/pages/events/) or create a new set and delete the default annotation set.
+To delete the default annotation set (even when it is renamed), [delete the event](https://avannotate.github.io/documentacion/pages/events/) or create a new set and delete the default annotation set.
 
 ## Creating and Modifying Additional Annotation Sets
 
-### Add, import, and edit annotation sets using [`Event` settings](https://avannotate.github.io/documentation/pages/events/).
+### Add, import, and edit annotation sets using [`Event` settings](https://avannotate.github.io/documentacion/pages/events/).
 ![image 2](../../assets/newannotationsetsimage2.png)
 ![image 3](../../assets/newannotationsetsimage3.png)
 
@@ -49,7 +49,7 @@ There are two ways to import an annotation spreadsheet to a new annotation set:
 2. Select `Import` on the Annotation Sets menu on the `Event` settings page.
 ![image 8](../../assets/newannotationsetsimage4.png)
 
-Upload an [annotation spreadsheet file](https://avannotate.github.io/documentation/pages/templates/) under the preferred annotation set name. 
+Upload an [annotation spreadsheet file](https://avannotate.github.io/documentacion/pages/templates/) under the preferred annotation set name. 
 ![image 9](../../assets/newannotationsetsimage6.png)
 
 {: .warning }

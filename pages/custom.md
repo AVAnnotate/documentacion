@@ -18,11 +18,11 @@ Pages can be customized for
 From the Site Builder tab, create a custom page by selecting `Add` and then selecting `Blank Page`.
 ![Image 2: How to add a custom author-generated page](../../assets/customimage2.png) 
 
-Once the page is added, add a title and assign a parent page. Customize the text and media on the page via the rich text editor. For details on the customization features, see [Custom Text Editor Options](https://avannotate.github.io/documentation/pages/custom/#:~:text=the%20published%20project.-,Custom%20Text%20Editor%20Options,-The%20custom%20rich) below.
+Once the page is added, add a title and assign a parent page. Customize the text and media on the page via the rich text editor. For details on the customization features, see [Custom Text Editor Options](https://avannotate.github.io/documentacion/pages/custom/#:~:text=the%20published%20project.-,Custom%20Text%20Editor%20Options,-The%20custom%20rich) below.
 ![Image 3: Custom text editor layout options](../../assets/customimage3.png) 
 
 # Disabling and Re-enabling Auto-generation
-Disable auto-generated home and event pages by navigating to the `Site Builder` tab on the [Project](https://avannotate.github.io/documentation/pages/creating_projects/) page, selecting the three-dot menu next to the event, and choosing "Disable Auto-Generation." This will generate an empty page for creating a custom page. Select  "Re-enable Auto-Generation" to recreate the auto-generated page. The custom page will not be lost. It will reappear when "Disable Auto-Generation" is selected again for that event. 
+Disable auto-generated home and event pages by navigating to the `Site Builder` tab on the [Project](https://avannotate.github.io/documentacion/pages/creating_projects/) page, selecting the three-dot menu next to the event, and choosing "Disable Auto-Generation." This will generate an empty page for creating a custom page. Select  "Re-enable Auto-Generation" to recreate the auto-generated page. The custom page will not be lost. It will reappear when "Disable Auto-Generation" is selected again for that event. 
 ![Image 3: Disabling auto-generation](../../assets/autoimage3.png) 
 
 # Reordering Pages
