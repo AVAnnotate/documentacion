@@ -1,39 +1,38 @@
 ---
-title: GitHub Accounts and Organizations
+title: Cuentas y organizaciones de GitHub
 layout: home
-parent: Get Started
+parent: Get Started # Cambiar a "Primeros pasos" cuando se traduzca el título de index.md
 nav_order: 4
 ---
 
-# Creating and Accessing GitHub Accounts and Organizations
+# Cómo crear y acceder a cuentas y organizaciones de GitHub
 
-There are [three types of accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts){:target="_blank" rel="noopener"} in GitHub: Personal, Organizations, and Enterprise. 
+GitHub ofrece [tres tipos de cuentas](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts){:target="_blank" rel="noopener"}: personales, de organización y de empresa (*Enterprise*).
 
-### Personal account
-A personal GitHub account is for individuals working on singular AVAnnotate project. Repositories created under a personal account are linked to the username (e.g., github.com/”yourname”/AVAnnotateproject). This setup is ideal for individual projects or those that do not require shared ownership or administrative roles.
+### Cuenta personal
+Una cuenta personal de GitHub está pensada para usuarios que trabajan solos en un proyecto de AVAnnotate. Los repositorios que crees con una cuenta personal quedan vinculados a tu nombre de usuario (por ejemplo, github.com/"tunombre"/proyectoAVAnnotate). Esta opción es ideal para proyectos individuales o que no requieren propiedad compartida ni roles administrativos.
 
-Some scenarios that may best suit a personal account include:
-- Private audio file(s) and annotations available only to the owner.
-- Personal archive of video files that don't require collaboration.
-- A dissertation project with audiovisual files and transcripts.
+Algunos casos en los que te conviene una cuenta personal:
+- Archivos de audio privados y anotaciones a los que solo tú puedes acceder.
+- Un archivo personal de videos que no requiere colaboración.
+- Un proyecto de tesis con archivos audiovisuales y transcripciones.
 
-See more information on [creating private projects](https://avannotate.github.io/documentacion/pages/private/).
+Para más información, consulta [cómo crear proyectos privados](https://avannotate.github.io/documentacion/pages/private/).
 
-### Organization account
-An [organization account](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations){:target="_blank" rel="noopener"} is intended for collaboration. It enables multiple users to contribute to and manage AVAnnotate projects under a shared group identity. Organizations are ideal for team-based class assignments, student groups, library staff, or departments that need to control access and assign roles (e.g., admin, maintainer, contributor). Projects created within an organization belong to all members of the organization, not an individual.
+### Cuenta de organización
+Una [cuenta de organización](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/about-organizations){:target="_blank" rel="noopener"} está pensada para la colaboración. Permite que varios usuarios contribuyan a proyectos de AVAnnotate y los gestionen bajo una identidad de grupo compartida. Las organizaciones son ideales para trabajos de clase en equipo, grupos de estudiantes, el personal de una biblioteca o departamentos que necesitan controlar el acceso y asignar roles (por ejemplo, administrador, mantenedor o colaborador). Los proyectos creados dentro de una organización pertenecen a todos sus miembros, no a un solo usuario.
 
-Some scenarios that may best suit an organization account include: 
-- Library-wide project using AVAnnotate to tag and transcribe oral histories.
-- Collaborative annotation of ethnographic interviews for a class project.
-- Departmental initiative to build a shared AVAnnotate project for research use.
+Algunos casos en los que te conviene una cuenta de organización:
+- Un proyecto de toda una biblioteca que usa AVAnnotate para etiquetar y transcribir historias orales.
+- La anotación colaborativa de entrevistas etnográficas para un proyecto de clase.
+- Una iniciativa de un departamento para construir un proyecto compartido de AVAnnotate con fines de investigación.
 
-### Enterprise account
-An [enterprise account](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#enterprise-accounts){:target="_blank" rel="noopener"} is for large-scale, often institution-level use. Currently, enterprise accounts do not work in AVAnnotate. 
+### Cuenta de empresa
+Una [cuenta de empresa](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts#enterprise-accounts){:target="_blank" rel="noopener"} (*Enterprise*) está pensada para un uso a gran escala, por lo general institucional. Por el momento, las cuentas de empresa no funcionan en AVAnnotate.
 
 ---
 
-There are three steps to using new accounts and organizations in an AVAnnotate project:
-1. Create a new [GitHub personal account](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#personal-accounts){:target="_blank" rel="noopener"} or [GitHub organization account](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch){:target="_blank" rel="noopener"}.
-2. Give AVAnnotate [permission](https://github.com/settings/connections/applications/Ov23liBba1hgUZ9JMEoo){:target="_blank" rel="noopener"} to access the organization.
-3. AVAnnotate users will need to re-login to AVAnnotate to see the new account in the AVAnnotate Dashboard. 
-
+Para usar cuentas y organizaciones nuevas en un proyecto de AVAnnotate, sigue estos tres pasos:
+1. Crea una nueva [cuenta personal de GitHub](https://docs.github.com/es/get-started/learning-about-github/types-of-github-accounts#personal-accounts){:target="_blank" rel="noopener"} o una [cuenta de organización de GitHub](https://docs.github.com/es/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch){:target="_blank" rel="noopener"}.
+2. Dale a AVAnnotate [permiso](https://github.com/settings/connections/applications/Ov23liBba1hgUZ9JMEoo){:target="_blank" rel="noopener"} para acceder a la organización.
+3. Cierra sesión y vuelve a iniciarla en AVAnnotate para que la nueva cuenta aparezca en tu *Dashboard*.
